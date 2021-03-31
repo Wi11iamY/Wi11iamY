@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wi11iam Yang
+- 👋 Hi, I’m William Yang
 - 👀 I’m interested in: Front End Development, UI/UX Design
 - 🌱 I’m currently learning: CSS, HTML, Javascript, UI/UX Design
 - 📫 How to reach me: wmyang7@outlook.com
